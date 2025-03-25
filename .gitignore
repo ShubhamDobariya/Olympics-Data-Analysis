@@ -1,0 +1,14 @@
+# Ignore IDE settings
+.idea/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environment
+.venv/
+*.iml
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
