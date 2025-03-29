@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 **Demo**
-[Olympics Data Analysis - Live Demo](https://your-render-url.com)
+[Olympics Data Analysis - Live Demo](https://olympics-data-analysis-xs69bpfz9qhmnnbrhb7z3c.streamlit.app/)
 
 ---
 
