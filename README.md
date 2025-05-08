@@ -47,12 +47,10 @@ Welcome to the **Olympics Data Analysis** project! This Streamlit-based web appl
    git clone https://github.com/ShubhamDobariya/Olympics-Data-Analysis.git
    cd Olympics-Data-Analysis
 
-
 2. **Install dependencies:**:
 
    ```bash
    pip install -r requirements.txt
-
 
 3. **Run the application:
 
