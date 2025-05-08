@@ -9,8 +9,6 @@ Welcome to the **Olympics Data Analysis** project! This Streamlit-based web appl
 
 ---
 
----
-
 ## 📊 **Data Sources**
 [120 Years of Olympic History: Athletes and Results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
